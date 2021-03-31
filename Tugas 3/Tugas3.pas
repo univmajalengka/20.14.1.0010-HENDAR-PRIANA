@@ -1,6 +1,5 @@
 { Nama        : Hendar Priana }
 { Npm         :20.14.1.00010 }
-{ Nama Program:Konversi_suhu_fahrenheit_ke_celcius }
 
 program Tugas3;
 uses crt;

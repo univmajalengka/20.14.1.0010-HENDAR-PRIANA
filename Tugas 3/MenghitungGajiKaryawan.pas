@@ -1,6 +1,6 @@
 { Nama        : Hendar Priana }
 { Npm         :20.14.1.00010 }
-{ Nama Program:Konversi_suhu_fahrenheit_ke_celcius }
+{ Nama Program:menghitung gaji karyawan }
 
 program Gaji_Karyawan;
 uses crt;

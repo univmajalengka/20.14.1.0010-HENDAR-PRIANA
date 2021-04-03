@@ -1,5 +1,5 @@
-{Nama           : Hendar Priana            }
-{NPM            : 20.14.1.0010        		  }
+{Nama           : Hendar Priana           }
+{NPM            : 20.14.1.0010            }
 {Nama Program   : hitung_rata2.pas 	  }
 
 program menghitung_rata_rata;

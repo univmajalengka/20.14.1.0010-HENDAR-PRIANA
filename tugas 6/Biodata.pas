@@ -1,5 +1,5 @@
-{Nama		    : Friyan Prasetya}
-{NPM		    : 20.14.1.0013}
+{Nama		    : Hendar priana}
+{NPM		    : 20.14.1.0010}
 {Nama Program	: Biodata.pas}
 
 program Tugas6;

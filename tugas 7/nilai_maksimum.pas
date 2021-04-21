@@ -1,5 +1,5 @@
 { Nama : Hendar Priana }
-{ NPM : 20.14.1.0010 }
+{ NPM : 20.14.1.00010 }
 { Nama program : Nilai_maksimum.PAS}
 
 program nilai_maksimum;

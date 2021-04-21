@@ -1,3 +1,6 @@
+{Nama         : Hendar Priana}
+{NPM          : 20.14.1.0010     }
+{Nama Program : Aritmatika.pas}
 program aritmatika;
 uses crt;
 var

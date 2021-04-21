@@ -1,5 +1,5 @@
-{ Nama : Mohammad Ihsan Siddiq }
-{ NPM : 20.14.1.0005 }
+{ Nama : Hendar Priana }
+{ NPM : 20.14.1.0010 }
 { Nama program : Nilai_maksimum.PAS}
 
 program nilai_maksimum;

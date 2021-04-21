@@ -1,3 +1,6 @@
+{Nama         : Hendar Priana}
+{NPM          : 20.14.1.0010     }
+{Nama Program : Biodata.pas}
 program Biodata;
 uses crt;
 

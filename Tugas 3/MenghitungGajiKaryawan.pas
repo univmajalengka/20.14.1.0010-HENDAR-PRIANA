@@ -1,5 +1,5 @@
 { Nama        : Hendar Priana }
-{ Npm         :20.14.1.00010 }
+{ Npm         :20.14.1.0010 }
 { Nama Program:menghitung gaji karyawan }
 
 program Gaji_Karyawan;

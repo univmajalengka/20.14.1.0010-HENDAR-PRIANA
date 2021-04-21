@@ -1,3 +1,6 @@
+{Nama         : Hendar Priana}
+{NPM          : 20.14.1.0010     }
+{Nama Program :   Luas persegi panjang.pas}
 program luas_persegi_panjang;
 uses crt;
 

@@ -1,5 +1,5 @@
 { Nama        : Hendar Priana }
-{ Npm         :20.14.1.00010 }
+{ Npm         :20.14.1.0010 }
 { Nama Program:Konversi_suhu_fahrenheit_ke_celcius }
 program Konversi_suhu_fahrenheit_ke_celcius;
 uses crt;
